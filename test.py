@@ -10,3 +10,6 @@ print('hello')
 
 Y = test2.poweration(2,3)
 print(Y)
+
+volume = test2.SphereVolume(3, 'diameter')
+print(volume)
